@@ -15,5 +15,13 @@
   },
   "dependencies": {
     "popper.js": "^1.14.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XBS17/First-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XBS17/First-Project/issues"
+  },
+  "homepage": "https://github.com/XBS17/First-Project#readme"
 }
